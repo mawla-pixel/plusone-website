@@ -1,0 +1,3793 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "BiziCorp - Business Consulting Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.2.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.png",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Style One",
+            "screenshot": "screenshots\/header-style-one.png",
+            "source": "templates\/header-style-one.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com\/template-kit\/header-style-one\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Style Two",
+            "screenshot": "screenshots\/header-style-two.png",
+            "source": "templates\/header-style-two.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com\/template-kit\/header-style-two\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header Style Three",
+            "screenshot": "screenshots\/header-style-three.png",
+            "source": "templates\/header-style-three.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com\/template-kit\/header-style-three\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Style One",
+            "screenshot": "screenshots\/footer-style-one.png",
+            "source": "templates\/footer-style-one.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com\/template-kit\/footer-style-one\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer Style Two",
+            "screenshot": "screenshots\/footer-style-two.png",
+            "source": "templates\/footer-style-two.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com\/template-kit\/footer-style-two\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Version One",
+            "screenshot": "screenshots\/home-version-one.jpg",
+            "source": "templates\/home-version-one.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com\/template-kit\/home-version-one\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home Version Two",
+            "screenshot": "screenshots\/home-version-two.jpg",
+            "source": "templates\/home-version-two.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com\/template-kit\/home-version-two\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home version Three",
+            "screenshot": "screenshots\/home-version-three.jpg",
+            "source": "templates\/home-version-three.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com\/template-kit\/home-version-three\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Version One",
+            "screenshot": "screenshots\/about-version-one.png",
+            "source": "templates\/about-version-one.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com\/template-kit\/about-version-one\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Version Two",
+            "screenshot": "screenshots\/about-version-two.png",
+            "source": "templates\/about-version-two.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com\/template-kit\/about-version-two\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Version One",
+            "screenshot": "screenshots\/service-version-one.png",
+            "source": "templates\/service-version-one.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com\/template-kit\/service-version-one\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service Version Two",
+            "screenshot": "screenshots\/service-version-two.png",
+            "source": "templates\/service-version-two.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com\/template-kit\/service-version-two\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "pricing",
+            "screenshot": "screenshots\/pricing.png",
+            "source": "templates\/pricing.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com\/template-kit\/pricing\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-pricing",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "History",
+            "screenshot": "screenshots\/history.png",
+            "source": "templates\/history.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com\/template-kit\/history\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.png",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Version One",
+            "screenshot": "screenshots\/contact-version-one.png",
+            "source": "templates\/contact-version-one.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com\/template-kit\/contact-version-one\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Version Two",
+            "screenshot": "screenshots\/contact-version-two.png",
+            "source": "templates\/contact-version-two.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com\/template-kit\/contact-version-two\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.png",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.png",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog Details",
+            "screenshot": "screenshots\/blog-details.png",
+            "source": "templates\/blog-details.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com\/template-kit\/blog-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/bizicorp.radiantthemes.com\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Contact Form 7",
+            "version": "5.6",
+            "file": "contact-form-7\/wp-contact-form-7.php",
+            "author": "Takayuki Miyoshi"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.6.6",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.6.2",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.11",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "LA-Studio Element Kit for Elementor",
+            "version": "1.0.3.2",
+            "file": "lastudio-element-kit\/lastudio-element-kit.php",
+            "author": "LA-Studio"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo-white-1.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/logo-white-1.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-one.json",
+                    "name": "Header Style One"
+                },
+                {
+                    "source": "templates\/header-style-two.json",
+                    "name": "Header Style Two"
+                },
+                {
+                    "source": "templates\/header-style-three.json",
+                    "name": "Header Style Three"
+                },
+                {
+                    "source": "templates\/footer-style-one.json",
+                    "name": "Footer Style One"
+                },
+                {
+                    "source": "templates\/footer-style-two.json",
+                    "name": "Footer Style Two"
+                }
+            ],
+            "filesize": 2447,
+            "dimensions": [
+                172,
+                46
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon16-1.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon16-1.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-three.json",
+                    "name": "Header Style Three"
+                }
+            ],
+            "filesize": 1227,
+            "dimensions": [
+                39,
+                39
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon15-1.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon15-1.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-three.json",
+                    "name": "Header Style Three"
+                }
+            ],
+            "filesize": 1082,
+            "dimensions": [
+                29,
+                37
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon14-1.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon14-1.png",
+            "templates": [
+                {
+                    "source": "templates\/header-style-three.json",
+                    "name": "Header Style Three"
+                }
+            ],
+            "filesize": 1275,
+            "dimensions": [
+                38,
+                38
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "dot.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/dot.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-one.json",
+                    "name": "Footer Style One"
+                },
+                {
+                    "source": "templates\/footer-style-two.json",
+                    "name": "Footer Style Two"
+                }
+            ],
+            "filesize": 1338,
+            "dimensions": [
+                114,
+                63
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shape.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/shape.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-one.json",
+                    "name": "Footer Style One"
+                },
+                {
+                    "source": "templates\/footer-style-two.json",
+                    "name": "Footer Style Two"
+                }
+            ],
+            "filesize": 9014,
+            "dimensions": [
+                589,
+                346
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "back-in-time.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/back-in-time.png",
+            "templates": [
+                {
+                    "source": "templates\/footer-style-one.json",
+                    "name": "Footer Style One"
+                }
+            ],
+            "filesize": 1765,
+            "dimensions": [
+                42,
+                42
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home1-banner2.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/home1-banner2-800x290.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 192097,
+            "dimensions": [
+                1920,
+                697
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-architects-and-business-people-working-to-X2PSXM7"
+        },
+        {
+            "filename": "bizcorp-home01-rec.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/bizcorp-home01-rec.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 1139,
+            "dimensions": [
+                4,
+                150
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "file01.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/file01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                },
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                },
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                },
+                {
+                    "source": "templates\/service-version-one.json",
+                    "name": "Service Version One"
+                }
+            ],
+            "filesize": 993,
+            "dimensions": [
+                38,
+                44
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/file_546391?term=file&page=1&position=17&page=1&position=17&related_id=546391&origin=search"
+        },
+        {
+            "filename": "bizcorp-home01-box01-img.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/bizcorp-home01-box01-img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 30341,
+            "dimensions": [
+                404,
+                179
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/diverse-colleagues-working-sitting-together-in-mod-HTCDMNW"
+        },
+        {
+            "filename": "monitor.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/monitor.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 1505,
+            "dimensions": [
+                42,
+                40
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/monitor_2782058"
+        },
+        {
+            "filename": "home01-box-img02.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/home01-box-img02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 23556,
+            "dimensions": [
+                404,
+                179
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-of-business-team-sitting-at-the-table-and-di-UPF6VTT"
+        },
+        {
+            "filename": "international-business-1.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/international-business-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 1848,
+            "dimensions": [
+                53,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/international-business_2666491?term=international%20business&page=1&position=4&page=1&position=4&related_id=2666491&origin=style"
+        },
+        {
+            "filename": "home01-box-img03.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/home01-box-img03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 20743,
+            "dimensions": [
+                404,
+                179
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-partners-shaking-hands-at-w-65MA66M"
+        },
+        {
+            "filename": "shape-for-service.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/shape-for-service.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 10276,
+            "dimensions": [
+                575,
+                403
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-01.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon-01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 1696,
+            "dimensions": [
+                48,
+                52
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/graph_2511405?term=financial&page=1&position=9&page=1&position=9&related_id=2511405&origin=search"
+        },
+        {
+            "filename": "icon04.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon04.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 1966,
+            "dimensions": [
+                56,
+                54
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/3d-modeling_4229105?term=software&page=1&position=27&page=1&position=27&related_id=4229105&origin=search"
+        },
+        {
+            "filename": "icon02.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 2164,
+            "dimensions": [
+                56,
+                52
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/shield_1320521?term=quality&page=1&position=11&page=1&position=11&related_id=1320521&origin=search"
+        },
+        {
+            "filename": "icon05.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon05.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 1963,
+            "dimensions": [
+                56,
+                56
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/airport_4230843?term=travel%20and%20aviation&page=1&position=3&page=1&position=3&related_id=4230843&origin=search"
+        },
+        {
+            "filename": "icon03.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 1954,
+            "dimensions": [
+                56,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/international-business_2666491?term=international%20business&page=1&position=4&page=1&position=4&related_id=2666491&origin=style"
+        },
+        {
+            "filename": "icon06.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon06.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 2182,
+            "dimensions": [
+                52,
+                52
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/health-insurance_2300414?term=health%20care&page=1&position=21&page=1&position=21&related_id=2300414&origin=search"
+        },
+        {
+            "filename": "icon07.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon07.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 2162,
+            "dimensions": [
+                51,
+                51
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/user_3094806?term=marketing&page=1&position=31&page=1&position=31&related_id=3094806&origin=tag"
+        },
+        {
+            "filename": "bizcorp-home01-box02-shape-img.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/bizcorp-home01-box02-shape-img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 1130,
+            "dimensions": [
+                1,
+                45
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon08.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon08.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                },
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                },
+                {
+                    "source": "templates\/about-version-two.json",
+                    "name": "About Version Two"
+                },
+                {
+                    "source": "templates\/service-version-one.json",
+                    "name": "Service Version One"
+                }
+            ],
+            "filesize": 1764,
+            "dimensions": [
+                51,
+                51
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/working_2830582"
+        },
+        {
+            "filename": "icon09.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon09.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 1787,
+            "dimensions": [
+                51,
+                51
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/idea_4185245?term=idea&page=1&position=53&page=1&position=53&related_id=4185245&origin=search"
+        },
+        {
+            "filename": "icon10.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon10.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                },
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                },
+                {
+                    "source": "templates\/about-version-two.json",
+                    "name": "About Version Two"
+                }
+            ],
+            "filesize": 1831,
+            "dimensions": [
+                43,
+                51
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/customer-service-agent_4298238?term=customer%20%20service%20agent&page=1&position=20&page=1&position=20&related_id=4298238&origin=search"
+        },
+        {
+            "filename": "home01-case-studies-box-img01.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/home01-case-studies-box-img01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 27497,
+            "dimensions": [
+                317,
+                369
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/estate-broker-showing-documents-to-clients-YJY9QF4"
+        },
+        {
+            "filename": "image01.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/image01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 29163,
+            "dimensions": [
+                317,
+                369
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collaboration-and-analysis-by-business-people-work-4JT3LDG"
+        },
+        {
+            "filename": "box-bg-03.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/box-bg-03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 14737,
+            "dimensions": [
+                317,
+                369
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/designer-drawing-design-project-7ZRAD9U"
+        },
+        {
+            "filename": "box-bg-04.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/box-bg-04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 21856,
+            "dimensions": [
+                315,
+                369
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/corporate-teamworking-colleagues-in-modern-office-FBA6RU2"
+        },
+        {
+            "filename": "MicrosoftTeams-image-16.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/MicrosoftTeams-image-16-800x537.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 283598,
+            "dimensions": [
+                1920,
+                1289
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/successful-project-young-business-team-working-on--DEKW974"
+        },
+        {
+            "filename": "separator01.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/separator01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 1131,
+            "dimensions": [
+                2,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bizcorp-hm01-img01.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/bizcorp-hm01-img01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 66856,
+            "dimensions": [
+                622,
+                540
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/financial-adviser-showing-presentation-to-clients-HNXG3AY"
+        },
+        {
+            "filename": "testimonial-bg-1.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/testimonial-bg-1-800x214.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 61746,
+            "dimensions": [
+                1920,
+                514
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/financial-adviser-showing-presentation-to-clients-HNXG3AY"
+        },
+        {
+            "filename": "left-quote.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/left-quote.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 1123,
+            "dimensions": [
+                52,
+                46
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "clnt-img01.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/clnt-img01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                },
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 8228,
+            "dimensions": [
+                56,
+                56
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/face-of-young-handsome-man-with-eyeglasses-8MWMKKZ"
+        },
+        {
+            "filename": "image02.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/image02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 45390,
+            "dimensions": [
+                404,
+                476
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "image01.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/image01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 5551,
+            "dimensions": [
+                46,
+                46
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-happy-young-bearded-hipster-man-with-e-5FAPVFW"
+        },
+        {
+            "filename": "news-box-text-bg.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/news-box-text-bg.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 1168,
+            "dimensions": [
+                114,
+                27
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image03.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/image03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 36335,
+            "dimensions": [
+                404,
+                476
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/they-have-a-vision-for-this-company-C4JP75R"
+        },
+        {
+            "filename": "image02.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/image02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 5562,
+            "dimensions": [
+                46,
+                46
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-beautiful-woman-with-blond-curly-hair-agains-HUNAKVC"
+        },
+        {
+            "filename": "image04.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/image04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 32416,
+            "dimensions": [
+                404,
+                476
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-conference-presentation-with-team-trainin-CPZU6EL"
+        },
+        {
+            "filename": "image03.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/image03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-one.json",
+                    "name": "Home Version One"
+                }
+            ],
+            "filesize": 5479,
+            "dimensions": [
+                46,
+                46
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/handsome-man-wearing-eyeglasses-against-gray-backg-ZK2LYZP"
+        },
+        {
+            "filename": "BizCorp-2-banner-1.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/BizCorp-2-banner-1-800x391.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 185856,
+            "dimensions": [
+                1920,
+                939
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/estate-broker-showing-documents-to-clients-YJY9QF4"
+        },
+        {
+            "filename": "home02-separator02.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/home02-separator02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 1133,
+            "dimensions": [
+                1,
+                110
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home02-separator01.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/home02-separator01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 1134,
+            "dimensions": [
+                3,
+                85
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "box-img01.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/box-img01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 24358,
+            "dimensions": [
+                294,
+                345
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/businesspeople-with-whiteboard-discussing-strategy-9CJJEHZ"
+        },
+        {
+            "filename": "box-img02.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/box-img02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 14928,
+            "dimensions": [
+                294,
+                345
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/designer-drawing-design-project-7ZRAD9U"
+        },
+        {
+            "filename": "box-img03.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/box-img03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 20536,
+            "dimensions": [
+                294,
+                345
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-conference-presentation-with-team-trainin-CPZU6EL"
+        },
+        {
+            "filename": "box-img04.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/box-img04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 22825,
+            "dimensions": [
+                294,
+                345
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-of-business-team-sitting-at-the-table-and-di-UPF6VTT"
+        },
+        {
+            "filename": "sec-bg-3.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/sec-bg-3-800x467.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                },
+                {
+                    "source": "templates\/about-version-two.json",
+                    "name": "About Version Two"
+                }
+            ],
+            "filesize": 143582,
+            "dimensions": [
+                1920,
+                1121
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/selements.envato.comdiverse-colleagues-working-sitting-together-in-mod-HTCDMNW"
+        },
+        {
+            "filename": "icon-bg.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon-bg.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 4416,
+            "dimensions": [
+                116,
+                116
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "box02-img01.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/box02-img01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 35958,
+            "dimensions": [
+                404,
+                295
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collaboration-and-analysis-by-business-people-work-62QQDFL"
+        },
+        {
+            "filename": "bizcorp-home02-box-img02.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/bizcorp-home02-box-img02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 33024,
+            "dimensions": [
+                404,
+                295
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/mature-businessman-conducting-presentation-while-w-MZPLJ2D"
+        },
+        {
+            "filename": "bizcorp-home02-box-img03.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/bizcorp-home02-box-img03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 37309,
+            "dimensions": [
+                403,
+                295
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collaboration-and-analysis-by-business-people-work-6EBGWAT"
+        },
+        {
+            "filename": "vdo-bg-1.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/vdo-bg-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 97150,
+            "dimensions": [
+                756,
+                441
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/successful-project-young-business-team-working-on--DEKW974"
+        },
+        {
+            "filename": "comma.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/comma.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 1345,
+            "dimensions": [
+                75,
+                67
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "star.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/star.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 528,
+            "dimensions": [
+                77,
+                13
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home02-client-img02.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/home02-client-img02.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 10410,
+            "dimensions": [
+                63,
+                63
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-happy-young-bearded-hipster-man-with-e-5FAPVFW"
+        },
+        {
+            "filename": "home02-client-img03.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/home02-client-img03.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 11610,
+            "dimensions": [
+                63,
+                63
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-happy-handsome-hipster-man-with-eyegla-PHVSMKW"
+        },
+        {
+            "filename": "box-bg02.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/box-bg02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 81336,
+            "dimensions": [
+                691,
+                564
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collaboration-and-analysis-by-business-people-work-FJHS9BG"
+        },
+        {
+            "filename": "client1.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/client1.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 5818,
+            "dimensions": [
+                150,
+                61
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-design-e-logo-templates-pack_12983788.htm#query=company+logo&position=10"
+        },
+        {
+            "filename": "client2.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/client2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 3968,
+            "dimensions": [
+                150,
+                61
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-design-ms-logo-collection_14140470.htm#page=5&query=company+logo&position=10"
+        },
+        {
+            "filename": "client3.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/client3.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 2261,
+            "dimensions": [
+                150,
+                61
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-design-e-logo-templates-pack_12983788.htm#query=company+logo&position=10"
+        },
+        {
+            "filename": "client4.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/client4.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 4144,
+            "dimensions": [
+                150,
+                61
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-design-ms-logo-collection_14140470.htm#page=5&query=company+logo&position=10"
+        },
+        {
+            "filename": "client5.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/client5.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 3999,
+            "dimensions": [
+                150,
+                61
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-design-e-logo-templates-pack_12983788.htm#query=company+logo&position=10"
+        },
+        {
+            "filename": "box03-img01.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/box03-img01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 20116,
+            "dimensions": [
+                245,
+                237
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "box03-img02.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/box03-img02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-two.json",
+                    "name": "Home Version Two"
+                }
+            ],
+            "filesize": 19134,
+            "dimensions": [
+                245,
+                237
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-businessmen-shaking-hands-2BYC7CB"
+        },
+        {
+            "filename": "home03-banner-bg.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/home03-banner-bg-800x414.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 279723,
+            "dimensions": [
+                1920,
+                993
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.comdiverse-colleagues-working-sitting-together-in-mod-HTCDMNW"
+        },
+        {
+            "filename": "icon17.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon17.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 993,
+            "dimensions": [
+                38,
+                44
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/file_546391?term=file&page=1&position=17&page=1&position=17&related_id=546391&origin=search"
+        },
+        {
+            "filename": "icon18.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon18.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 1505,
+            "dimensions": [
+                42,
+                40
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon19.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon19.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 1848,
+            "dimensions": [
+                53,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/international-business_2666491?term=international%20business&page=1&position=4&page=1&position=4&related_id=2666491&origin=style"
+        },
+        {
+            "filename": "ellipse01.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/ellipse01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 1324,
+            "dimensions": [
+                43,
+                14
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "star-2.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/star-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 856,
+            "dimensions": [
+                89,
+                15
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "box-img01-1.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/box-img01-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 21058,
+            "dimensions": [
+                313,
+                303
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/colleagues-at-meeting-PG77Y2A"
+        },
+        {
+            "filename": "box-img02-1.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/box-img02-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 34344,
+            "dimensions": [
+                313,
+                303
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/successful-businesswoman-with-an-e-business-P2KWWNR"
+        },
+        {
+            "filename": "box-bg-img03.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/box-bg-img03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 46002,
+            "dimensions": [
+                404,
+                519
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/successful-project-young-business-team-working-on--DEKW974"
+        },
+        {
+            "filename": "box-bg-img04.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/box-bg-img04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 31926,
+            "dimensions": [
+                404,
+                519
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-of-business-team-sitting-at-the-table-and-di-UPF6VTT"
+        },
+        {
+            "filename": "box-bg-img05.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/box-bg-img05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 42130,
+            "dimensions": [
+                404,
+                519
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-couple-working-VBQHFMQ"
+        },
+        {
+            "filename": "shape01.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/shape01-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 33468,
+            "dimensions": [
+                936,
+                936
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "box-img03-1.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/box-img03-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 42091,
+            "dimensions": [
+                404,
+                426
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/mature-businessman-conducting-presentation-while-w-MZPLJ2D"
+        },
+        {
+            "filename": "icon20.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon20.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 1362,
+            "dimensions": [
+                45,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/stats_784712?term=business&page=1&position=9&page=1&position=9&related_id=784712&origin=search"
+        },
+        {
+            "filename": "box-img04-1.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/box-img04-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 68498,
+            "dimensions": [
+                725,
+                441
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "vdo-bg01.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/vdo-bg01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 60173,
+            "dimensions": [
+                541,
+                466
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/estate-broker-showing-documents-to-clients-YJY9QF4"
+        },
+        {
+            "filename": "bg01.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/bg01-800x236.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 111664,
+            "dimensions": [
+                1920,
+                567
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/they-have-a-vision-for-this-company-C4JP75R"
+        },
+        {
+            "filename": "icon21.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon21.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 1764,
+            "dimensions": [
+                51,
+                51
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/working_2830582"
+        },
+        {
+            "filename": "icon22.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon22.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 1919,
+            "dimensions": [
+                51,
+                51
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/jigsaw_993760?term=solutions&page=1&position=17&page=1&position=17&related_id=993760&origin=search"
+        },
+        {
+            "filename": "icon23.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon23.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 2007,
+            "dimensions": [
+                51,
+                51
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/customer-care_3447661?term=customer%20care&page=1&position=32&page=1&position=32&related_id=3447661&origin=search"
+        },
+        {
+            "filename": "icon24.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon24.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 1539,
+            "dimensions": [
+                41,
+                51
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/web_993791?related_id=993791&origin=pack"
+        },
+        {
+            "filename": "icon26.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon26.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 1475,
+            "dimensions": [
+                51,
+                43
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/client_1848755?term=consulting&page=1&position=6&page=1&position=6&related_id=1848755&origin=search"
+        },
+        {
+            "filename": "icon25.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon25.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 2116,
+            "dimensions": [
+                52,
+                52
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/rating_2936605?term=rating&related_id=2936605"
+        },
+        {
+            "filename": "icon27.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon27.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 1394,
+            "dimensions": [
+                48,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/stats_784712?term=business&page=1&position=9&page=1&position=9&related_id=784712&origin=search"
+        },
+        {
+            "filename": "comma01.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/comma01.png",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 1125,
+            "dimensions": [
+                52,
+                46
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client01.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/client01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 11561,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "client02.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/client02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home-version-three.json",
+                    "name": "Home version Three"
+                }
+            ],
+            "filesize": 10470,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "banner01-1.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/banner01-1-800x164.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                },
+                {
+                    "source": "templates\/contact-version-one.json",
+                    "name": "Contact Version One"
+                },
+                {
+                    "source": "templates\/contact-version-two.json",
+                    "name": "Contact Version Two"
+                }
+            ],
+            "filesize": 115734,
+            "dimensions": [
+                1932,
+                396
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "abt-box-bg01.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/abt-box-bg01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                }
+            ],
+            "filesize": 46187,
+            "dimensions": [
+                510,
+                608
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/busy-boss-PHKCPWV"
+        },
+        {
+            "filename": "client-01.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/client-01.png",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                }
+            ],
+            "filesize": 12328,
+            "dimensions": [
+                65,
+                65
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/busy-boss-PHKCPWV"
+        },
+        {
+            "filename": "separator01-1.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/separator01-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                }
+            ],
+            "filesize": 1131,
+            "dimensions": [
+                2,
+                53
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "sig-1.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/sig-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                }
+            ],
+            "filesize": 4420,
+            "dimensions": [
+                234,
+                90
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shape01-1.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/shape01-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                }
+            ],
+            "filesize": 10923,
+            "dimensions": [
+                652,
+                652
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "dot01.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/dot01.png",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                }
+            ],
+            "filesize": 1137,
+            "dimensions": [
+                114,
+                63
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon28.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon28.png",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                },
+                {
+                    "source": "templates\/about-version-two.json",
+                    "name": "About Version Two"
+                }
+            ],
+            "filesize": 1299,
+            "dimensions": [
+                50,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/layer_814225?term=layer&page=1&position=5&page=1&position=5&related_id=814225&origin=search"
+        },
+        {
+            "filename": "icon29.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon29.png",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                },
+                {
+                    "source": "templates\/about-version-two.json",
+                    "name": "About Version Two"
+                }
+            ],
+            "filesize": 1865,
+            "dimensions": [
+                46,
+                47
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/work-station_3028171"
+        },
+        {
+            "filename": "check.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/check.png",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                },
+                {
+                    "source": "templates\/service-version-two.json",
+                    "name": "Service Version Two"
+                }
+            ],
+            "filesize": 462,
+            "dimensions": [
+                36,
+                36
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "check02.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/check02.png",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                }
+            ],
+            "filesize": 579,
+            "dimensions": [
+                36,
+                36
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "vdo-bg-img01.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/vdo-bg-img01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                }
+            ],
+            "filesize": 72179,
+            "dimensions": [
+                725,
+                546
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/working-in-an-office-PXS7BDU"
+        },
+        {
+            "filename": "image01-1.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/image01-1-800x548.png",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                }
+            ],
+            "filesize": 344587,
+            "dimensions": [
+                1339,
+                918
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/fathers-day-image-of-a-daughter-giving-a-best-dad--38WKRP6"
+        },
+        {
+            "filename": "client-logo01.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/client-logo01.png",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                },
+                {
+                    "source": "templates\/about-version-two.json",
+                    "name": "About Version Two"
+                }
+            ],
+            "filesize": 5465,
+            "dimensions": [
+                95,
+                129
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/vector-variety-design-maroon-retro-vintage-badges-isolated_10705006.htm#page=1&query=vector-variety-design-maroon-retro-vintage-badges-isolated&position=0"
+        },
+        {
+            "filename": "client02.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/client02.png",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                },
+                {
+                    "source": "templates\/about-version-two.json",
+                    "name": "About Version Two"
+                }
+            ],
+            "filesize": 8223,
+            "dimensions": [
+                128,
+                128
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/vector-variety-design-maroon-retro-vintage-badges-isolated_10705006.htm#page=1&query=vector-variety-design-maroon-retro-vintage-badges-isolated&position=0"
+        },
+        {
+            "filename": "client03.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/client03.png",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                },
+                {
+                    "source": "templates\/about-version-two.json",
+                    "name": "About Version Two"
+                }
+            ],
+            "filesize": 7948,
+            "dimensions": [
+                94,
+                129
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/vector-variety-design-maroon-retro-vintage-badges-isolated_10705006.htm#page=1&query=vector-variety-design-maroon-retro-vintage-badges-isolated&position=0"
+        },
+        {
+            "filename": "client04.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/client04.png",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                },
+                {
+                    "source": "templates\/about-version-two.json",
+                    "name": "About Version Two"
+                }
+            ],
+            "filesize": 8999,
+            "dimensions": [
+                149,
+                129
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/vector-variety-design-maroon-retro-vintage-badges-isolated_10705006.htm#page=1&query=vector-variety-design-maroon-retro-vintage-badges-isolated&position=0 copy"
+        },
+        {
+            "filename": "vdo-bg-img02.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/vdo-bg-img02-800x422.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                },
+                {
+                    "source": "templates\/service-version-two.json",
+                    "name": "Service Version Two"
+                }
+            ],
+            "filesize": 76518,
+            "dimensions": [
+                849,
+                448
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-colleagues-collaborating-and-discussing-p-9RY5JEM"
+        },
+        {
+            "filename": "comma-1.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/comma-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                }
+            ],
+            "filesize": 1372,
+            "dimensions": [
+                75,
+                67
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image02-1.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/image02-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                }
+            ],
+            "filesize": 10005,
+            "dimensions": [
+                63,
+                63
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-happy-young-bearded-hipster-man-with-e-5FAPVFW"
+        },
+        {
+            "filename": "star02.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/star02.png",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                }
+            ],
+            "filesize": 526,
+            "dimensions": [
+                77,
+                13
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image03-1.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/image03-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about-version-one.json",
+                    "name": "About Version One"
+                }
+            ],
+            "filesize": 11108,
+            "dimensions": [
+                63,
+                63
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-happy-handsome-hipster-man-with-eyegla-PHVSMKW"
+        },
+        {
+            "filename": "banner02-1.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/banner02-1-800x164.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-version-two.json",
+                    "name": "About Version Two"
+                }
+            ],
+            "filesize": 115225,
+            "dimensions": [
+                1932,
+                396
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "image3.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/image3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-version-two.json",
+                    "name": "About Version Two"
+                }
+            ],
+            "filesize": 88684,
+            "dimensions": [
+                726,
+                520
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collaboration-and-analysis-by-business-people-work-6EBGWAT"
+        },
+        {
+            "filename": "image4.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/image4-800x498.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-version-two.json",
+                    "name": "About Version Two"
+                },
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 78695,
+            "dimensions": [
+                836,
+                520
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-colleagues-collaborating-and-discussing-p-GK2KBP7"
+        },
+        {
+            "filename": "member01.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/member01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-version-two.json",
+                    "name": "About Version Two"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 24318,
+            "dimensions": [
+                287,
+                364
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "member02.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/member02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-version-two.json",
+                    "name": "About Version Two"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 21511,
+            "dimensions": [
+                287,
+                364
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "member03.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/member03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about-version-two.json",
+                    "name": "About Version Two"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 35825,
+            "dimensions": [
+                287,
+                364
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "banner03-1.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/banner03-1-800x157.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-version-one.json",
+                    "name": "Service Version One"
+                },
+                {
+                    "source": "templates\/service-version-two.json",
+                    "name": "Service Version Two"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "pricing"
+                }
+            ],
+            "filesize": 103252,
+            "dimensions": [
+                1920,
+                376
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "service-box-img01.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/service-box-img01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-version-one.json",
+                    "name": "Service Version One"
+                }
+            ],
+            "filesize": 35458,
+            "dimensions": [
+                404,
+                292
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-colleagues-collaborating-and-discussing-p-9RY5JEM"
+        },
+        {
+            "filename": "service-box-img02.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/service-box-img02.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-version-one.json",
+                    "name": "Service Version One"
+                }
+            ],
+            "filesize": 22473,
+            "dimensions": [
+                404,
+                292
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/hotline-operator-indian-customer-support-manager-m-54HH4YW"
+        },
+        {
+            "filename": "service-box-img03.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/service-box-img03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-version-one.json",
+                    "name": "Service Version One"
+                }
+            ],
+            "filesize": 32579,
+            "dimensions": [
+                404,
+                292
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/group-of-architects-and-business-people-working-to-X2PSXM7"
+        },
+        {
+            "filename": "shape01-2.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/shape01-2.png",
+            "templates": [
+                {
+                    "source": "templates\/service-version-one.json",
+                    "name": "Service Version One"
+                }
+            ],
+            "filesize": 13946,
+            "dimensions": [
+                772,
+                772
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "dot-1.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/dot-1.png",
+            "templates": [
+                {
+                    "source": "templates\/service-version-one.json",
+                    "name": "Service Version One"
+                }
+            ],
+            "filesize": 811,
+            "dimensions": [
+                114,
+                115
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "service-img01.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/service-img01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-version-one.json",
+                    "name": "Service Version One"
+                }
+            ],
+            "filesize": 94427,
+            "dimensions": [
+                799,
+                533
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-colleagues-collaborating-and-discussing-p-XKT4EZ9"
+        },
+        {
+            "filename": "icon30.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon30.png",
+            "templates": [
+                {
+                    "source": "templates\/service-version-one.json",
+                    "name": "Service Version One"
+                }
+            ],
+            "filesize": 1696,
+            "dimensions": [
+                48,
+                52
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/graph_2511405?term=financial&page=1&position=9&page=1&position=9&related_id=2511405&origin=search"
+        },
+        {
+            "filename": "icon31.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon31.png",
+            "templates": [
+                {
+                    "source": "templates\/service-version-one.json",
+                    "name": "Service Version One"
+                }
+            ],
+            "filesize": 1966,
+            "dimensions": [
+                56,
+                54
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/3d-modeling_4229105?term=software&page=1&position=27&page=1&position=27&related_id=4229105&origin=search"
+        },
+        {
+            "filename": "icon32.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon32.png",
+            "templates": [
+                {
+                    "source": "templates\/service-version-one.json",
+                    "name": "Service Version One"
+                }
+            ],
+            "filesize": 2164,
+            "dimensions": [
+                56,
+                52
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/shield_1320521?term=quality&page=1&position=11&page=1&position=11&related_id=1320521&origin=search"
+        },
+        {
+            "filename": "service-box-img.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/service-box-img.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-version-one.json",
+                    "name": "Service Version One"
+                }
+            ],
+            "filesize": 36012,
+            "dimensions": [
+                404,
+                345
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/business-colleagues-collaborating-and-discussing-p-2VHB576"
+        },
+        {
+            "filename": "icon33.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon33.png",
+            "templates": [
+                {
+                    "source": "templates\/service-version-one.json",
+                    "name": "Service Version One"
+                }
+            ],
+            "filesize": 1362,
+            "dimensions": [
+                45,
+                45
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/stats_784712?term=business&page=1&position=9&page=1&position=9&related_id=784712&origin=search"
+        },
+        {
+            "filename": "icon34.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon34.png",
+            "templates": [
+                {
+                    "source": "templates\/service-version-one.json",
+                    "name": "Service Version One"
+                }
+            ],
+            "filesize": 2182,
+            "dimensions": [
+                52,
+                52
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/health-insurance_2300414?term=health%20care&page=1&position=21&page=1&position=21&related_id=2300414&origin=search"
+        },
+        {
+            "filename": "icon35.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon35.png",
+            "templates": [
+                {
+                    "source": "templates\/service-version-one.json",
+                    "name": "Service Version One"
+                }
+            ],
+            "filesize": 1963,
+            "dimensions": [
+                56,
+                56
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/airport_4230843?term=travel%20and%20aviation&page=1&position=3&page=1&position=3&related_id=4230843&origin=search"
+        },
+        {
+            "filename": "vdo-box-bg-1.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/vdo-box-bg-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/service-version-two.json",
+                    "name": "Service Version Two"
+                },
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 67769,
+            "dimensions": [
+                724,
+                503
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-partners-shaking-hands-at-w-65MA66M"
+        },
+        {
+            "filename": "shape01-3.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/shape01-3-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/service-version-two.json",
+                    "name": "Service Version Two"
+                }
+            ],
+            "filesize": 16366,
+            "dimensions": [
+                936,
+                936
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "dot-2.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/dot-2.png",
+            "templates": [
+                {
+                    "source": "templates\/service-version-two.json",
+                    "name": "Service Version Two"
+                }
+            ],
+            "filesize": 1137,
+            "dimensions": [
+                114,
+                63
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon36.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon36.png",
+            "templates": [
+                {
+                    "source": "templates\/service-version-two.json",
+                    "name": "Service Version Two"
+                }
+            ],
+            "filesize": 1299,
+            "dimensions": [
+                50,
+                48
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/layer_814225?term=layer&page=1&position=4&page=1&position=4&related_id=814225&origin=search"
+        },
+        {
+            "filename": "icon38.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon38.png",
+            "templates": [
+                {
+                    "source": "templates\/service-version-two.json",
+                    "name": "Service Version Two"
+                }
+            ],
+            "filesize": 1799,
+            "dimensions": [
+                42,
+                50
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/customer-service-agent_4298238?term=customer%20service%20agent&page=1&position=21&page=1&position=21&related_id=4298238&origin=search"
+        },
+        {
+            "filename": "icon39.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon39.png",
+            "templates": [
+                {
+                    "source": "templates\/service-version-two.json",
+                    "name": "Service Version Two"
+                }
+            ],
+            "filesize": 1865,
+            "dimensions": [
+                46,
+                47
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/work-station_3028171?term=work%20station&page=1&position=2&page=1&position=2&related_id=3028171&origin=search"
+        },
+        {
+            "filename": "icon37.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/icon37.png",
+            "templates": [
+                {
+                    "source": "templates\/service-version-two.json",
+                    "name": "Service Version Two"
+                }
+            ],
+            "filesize": 1667,
+            "dimensions": [
+                50,
+                50
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/working_2830582?related_id=2830582"
+        },
+        {
+            "filename": "globe.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/globe.png",
+            "templates": [
+                {
+                    "source": "templates\/service-version-two.json",
+                    "name": "Service Version Two"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "pricing"
+                }
+            ],
+            "filesize": 2754,
+            "dimensions": [
+                66,
+                66
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/globe_900782?term=globe&page=1&position=2&page=1&position=2&related_id=900782&origin=search"
+        },
+        {
+            "filename": "tick.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/tick.png",
+            "templates": [
+                {
+                    "source": "templates\/service-version-two.json",
+                    "name": "Service Version Two"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "pricing"
+                },
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 227,
+            "dimensions": [
+                13,
+                10
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "shape02.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/shape02.png",
+            "templates": [
+                {
+                    "source": "templates\/service-version-two.json",
+                    "name": "Service Version Two"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "pricing"
+                }
+            ],
+            "filesize": 638,
+            "dimensions": [
+                54,
+                54
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "diamond.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/diamond.png",
+            "templates": [
+                {
+                    "source": "templates\/service-version-two.json",
+                    "name": "Service Version Two"
+                },
+                {
+                    "source": "templates\/pricing.json",
+                    "name": "pricing"
+                }
+            ],
+            "filesize": 2044,
+            "dimensions": [
+                68,
+                60
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.flaticon.com\/free-icon\/diamond_636600?term=diamond&page=1&position=2&page=1&position=2&related_id=636600&origin=search"
+        },
+        {
+            "filename": "banner05.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/banner05-800x165.jpg",
+            "templates": [
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                },
+                {
+                    "source": "templates\/blog.json",
+                    "name": "Blog"
+                },
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 192870,
+            "dimensions": [
+                1918,
+                396
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "history-box-img01.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/history-box-img01.jpg",
+            "templates": [
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 43825,
+            "dimensions": [
+                404,
+                418
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collaboration-and-analysis-by-business-people-work-N8VJRTD"
+        },
+        {
+            "filename": "history-box-bg1.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/history-box-bg1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 30622,
+            "dimensions": [
+                404,
+                210
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/buildings-JLE8S7X"
+        },
+        {
+            "filename": "box-bg2.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/box-bg2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 13932,
+            "dimensions": [
+                404,
+                210
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/building-design-2F7DZEV"
+        },
+        {
+            "filename": "history-box-bg3.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/history-box-bg3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 25609,
+            "dimensions": [
+                404,
+                210
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-business-people-celebrating-success-at-compa-5FUVHK4"
+        },
+        {
+            "filename": "history-box-bg4.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/history-box-bg4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 15724,
+            "dimensions": [
+                404,
+                210
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/designer-drawing-design-project-7ZRAD9U"
+        },
+        {
+            "filename": "history-box-bg5.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/history-box-bg5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 23452,
+            "dimensions": [
+                404,
+                210
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-business-people-celebrating-success-at-compa-CDMWM4P"
+        },
+        {
+            "filename": "circle-1.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/circle-1.png",
+            "templates": [
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 433,
+            "dimensions": [
+                18,
+                18
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "separator.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/separator.png",
+            "templates": [
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                }
+            ],
+            "filesize": 932,
+            "dimensions": [
+                1,
+                204
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "arrow-right.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/arrow-right.png",
+            "templates": [
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 203,
+            "dimensions": [
+                7,
+                9
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "image01-2.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/image01-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/history.json",
+                    "name": "History"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 13360,
+            "dimensions": [
+                296,
+                364
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/diverse-colleagues-working-sitting-together-in-mod-HTCDMNW"
+        },
+        {
+            "filename": "banner06.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/banner06-800x162.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 76097,
+            "dimensions": [
+                1956,
+                396
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "team-vdo-box-bg.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/team-vdo-box-bg.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 78530,
+            "dimensions": [
+                724,
+                503
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/confident-businessmen-shaking-hands-2BYC7CB"
+        },
+        {
+            "filename": "member04.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/member04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 25778,
+            "dimensions": [
+                287,
+                364
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "member05.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/member05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 28554,
+            "dimensions": [
+                287,
+                364
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "member06.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/member06.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 25692,
+            "dimensions": [
+                287,
+                364
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "member07.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/member07.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 21671,
+            "dimensions": [
+                287,
+                364
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "member08.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/member08.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 28780,
+            "dimensions": [
+                287,
+                364
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "dot-3.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/dot-3-800x414.png",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 78312,
+            "dimensions": [
+                979,
+                507
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "client_03.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/client_03.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 8114,
+            "dimensions": [
+                120,
+                120
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "client04.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/client04.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 6522,
+            "dimensions": [
+                80,
+                80
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "client02-1.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/client02-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 10470,
+            "dimensions": [
+                150,
+                150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "client05.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/client05.jpg",
+            "templates": [
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 5657,
+            "dimensions": [
+                60,
+                60
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "image03-1.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/image03-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-version-one.json",
+                    "name": "Contact Version One"
+                },
+                {
+                    "source": "templates\/contact-version-two.json",
+                    "name": "Contact Version Two"
+                }
+            ],
+            "filesize": 13408,
+            "dimensions": [
+                106,
+                126
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/sydney-australia-3TDCQEV"
+        },
+        {
+            "filename": "image01-1.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/image01-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-version-one.json",
+                    "name": "Contact Version One"
+                },
+                {
+                    "source": "templates\/contact-version-two.json",
+                    "name": "Contact Version Two"
+                }
+            ],
+            "filesize": 11399,
+            "dimensions": [
+                106,
+                126
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/architecture-building-city-cityscape-high-manhatta-PSAKNZ6"
+        },
+        {
+            "filename": "image02-1.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/image02-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/contact-version-one.json",
+                    "name": "Contact Version One"
+                }
+            ],
+            "filesize": 10588,
+            "dimensions": [
+                106,
+                126
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/singapore-jan-19-2016-TLMKGQD"
+        },
+        {
+            "filename": "banner04.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/banner04-800x156.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 75164,
+            "dimensions": [
+                2004,
+                390
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "abt02-vdo-bg.jpg",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/abt02-vdo-bg.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog-details.json",
+                    "name": "Blog Details"
+                }
+            ],
+            "filesize": 76447,
+            "dimensions": [
+                726,
+                520
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/multicultural-business-colleagues-working-at-table-25L4SDT"
+        },
+        {
+            "filename": "MicrosoftTeams-image.png",
+            "thumbnail_url": "https:\/\/bizicorp.radiantthemes.com\/wp-content\/uploads\/2021\/05\/MicrosoftTeams-image.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 25550,
+            "dimensions": [
+                541,
+                362
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/set-of-flat-designs-for-404-error-page-XZVTJAM"
+        }
+    ]
+}
